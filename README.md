@@ -1,4 +1,4 @@
-# Flex Business Solutions Tech Test - Inventory Management
+# Flex Business Solutions Tech Test - Notes app
 
 In Flex Business Solutions, we aim to provide excellence and efficiency on all our lines of code in order to support the day-to-day activities of the company using our software solutions. In this task, you will be provided with a simple design of an app, fetching a list of products from an external source and allowing the user to search or filter among the list.
 
