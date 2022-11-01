@@ -6,7 +6,7 @@ In Flex Business Solutions, we aim to provide excellence and efficiency on all o
 ### Tech Test Overview
 We have provided below the Figma link of this task. On the main page,
 
-[FIGMA] []
+[FIGMA] [https://www.figma.com/file/T6hUVUDh5ihoYwQILcJDcf/Untitled?node-id=6%3A272#295914516]
 
 We love to see:
 - Functional code
@@ -25,9 +25,9 @@ We're interested in how you break down the work and build your solution in a cle
 
 ## Deliverables
 You must follow the Figma design and need to add the functionality of:
-a) 
-c) 
-b) 
+a) Create new notes
+c) Show all notes
+b) Search notes
 
 **Create a folder inside the repository and include finished screenshots of the app.**
 **Please make sure to update the readme with**:
